@@ -1,4 +1,4 @@
-# Node.js Backend for User Profile Management, Posts, and Authentication
+# Node.js Backend for User Profile Management, Posts, and Authentication(Blogging App Backend Project)
 
 This Node.js backend application provides a robust solution for User Profile Management, Post Creation and Retrieval, Commenting System, and User Authentication. It leverages MongoDB for data storage, allowing seamless CRUD operations. The backend is built to be secure, scalable, and easy to use.
 
